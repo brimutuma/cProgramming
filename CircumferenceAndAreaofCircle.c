@@ -20,7 +20,7 @@ int main()
 	a= pi*r*r;
 	
 	//output
-	printf ("The Circumference of the Circle is: %d \nThe Area of the Circle is %d", c, a);
+	printf ("The Circumference of the Circle is:%d \nThe Area of the Circle is:%d", c, a);
 	
 	return 0; 	
 }
